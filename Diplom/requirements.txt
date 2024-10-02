@@ -1,0 +1,3 @@
+opencv-python # Для работы с OpenCV
+numpy          # Для работы с массивами и математиками в OpenCV
+twilio        # Для отправки SMS через Twilio API
